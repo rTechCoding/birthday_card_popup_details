@@ -6,7 +6,7 @@ body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
-        /* --- Floating Bubbles Animation --- */
+      /* --- Floating Bubbles Animation --- */
         .bubble-container {
             position: absolute;
             top: 0;
